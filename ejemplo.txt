@@ -9,3 +9,6 @@ Me gusta estudiar y jugar video juegos.
 
 Estudio física en la universidad de Córdoba.
 Voy por octavo semestre.
+
+
+Ahora ya se como usar github y atom.
